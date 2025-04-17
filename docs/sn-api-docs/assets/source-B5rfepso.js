@@ -1,3 +1,0 @@
-import{H as o,j as n}from"./entry.client-DmQ2oq5X.js";const i="All source files can be found here",r=[{depth:1,value:"Github",id:"github"}],h=void 0;function s(e){const t={a:"a",h1:"h1",p:"p",...o(),...e.components};return n.jsxs(n.Fragment,{children:[n.jsx(t.h1,{id:"github",children:"Github"}),`
-`,n.jsxs(t.p,{children:["All source files can be found ",n.jsx(t.a,{href:"https://github.com/nosenko-mi/sn-api.git",children:"here"})]})]})}function u(e={}){const{wrapper:t}={...o(),...e.components};return t?n.jsx(t,{...e,children:n.jsx(s,{...e})}):s(e)}export{u as default,i as excerpt,h as frontmatter,r as tableOfContents};
-//# sourceMappingURL=source-B5rfepso.js.map

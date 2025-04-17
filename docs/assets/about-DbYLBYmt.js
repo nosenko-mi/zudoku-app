@@ -1,0 +1,3 @@
+import{H as a,j as n}from"./entry.client-BCdoOJkf.js";const c="This is a rough draft of a complete documentation made for an educational purposes",s=[{depth:1,value:"Current Documentation State",id:"current-documentation-state"}],u=void 0;function o(t){const e={h1:"h1",p:"p",...a(),...t.components};return n.jsxs(n.Fragment,{children:[n.jsx(e.h1,{id:"current-documentation-state",children:"Current Documentation State"}),`
+`,n.jsx(e.p,{children:"This is a rough draft of a complete documentation made for an educational purposes"})]})}function i(t={}){const{wrapper:e}={...a(),...t.components};return e?n.jsx(e,{...t,children:n.jsx(o,{...t})}):o(t)}export{i as default,c as excerpt,u as frontmatter,s as tableOfContents};
+//# sourceMappingURL=about-DbYLBYmt.js.map

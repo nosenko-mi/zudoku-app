@@ -1,5 +1,6 @@
 /** @type {import('zudoku').ZudokuConfig} */
 const config = {
+  basePath: "/zudoku-app",
   topNavigation: [
     { id: "about", label: "About" },
     { id: "docs", label: "Documentation" },
