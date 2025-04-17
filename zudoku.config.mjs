@@ -1,6 +1,5 @@
 /** @type {import('zudoku').ZudokuConfig} */
 const config = {
-  basePath: "/sn-api-docs",
   topNavigation: [
     { id: "about", label: "About" },
     { id: "docs", label: "Documentation" },
